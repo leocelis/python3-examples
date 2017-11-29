@@ -1,0 +1,21 @@
+master:
+  - name: c
+    type: 'aaaa'
+    required: 1
+  - name: d
+    type: 'bbbb'
+    required: 1
+  - name: a
+    type: 'test'
+    required: 1
+  - name: b
+    type: 'string'
+    required: 1
+
+order: ['a', 'b', 'c']
+
+this:
+  is:
+    a:
+      sample: "indeed"
+hello: world
