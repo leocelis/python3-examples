@@ -15,6 +15,6 @@ logging.basicConfig(filename='logging/example.log',
 
 logging.debug('Something went wrong! It is OK since this is production')
 
-logging.critical('OMG! this should not happens on production')
+logging.critical('OMG! this should not happen on production')
 
 time.sleep(1)
