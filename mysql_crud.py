@@ -2,7 +2,7 @@
 Installation
 ============
 
->pip3 install PyMySQ
+>pip3 install PyMySQL
 
 export DB_HOST=<mysql_host>
 export DB_PORT=<mysql_port>
