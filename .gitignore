@@ -258,4 +258,4 @@ ENV/
 # custom
 wip/
 .idea/
-
+aws_neptune/data/
